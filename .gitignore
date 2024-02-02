@@ -169,3 +169,5 @@ wav_split
 multilabel_tfrecords
 stats/*
 passive_sonar_models
+.DS_Store
+
