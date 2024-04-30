@@ -7,7 +7,7 @@ import tensorflow as tf
 from utils.split_utils import upsample, downsample
 
 
-from passive_sonar_models.data.dataset_processor import AudioDataset
+from tools.dataset_processor import AudioDataset
 
 def decode_fn(record_bytes):
     feature_description = {
