@@ -3,9 +3,12 @@ This is repository for the Underwater Passive Acoustic Data Toolkit
 
 
 ## Please cite following manuscripts if you decide to use toolkit
-Beckler, B., Pfau, A., Orescanin, M., Atchley, S., Villemez, N., Joseph, J.E., Miller, C.W. and Margolina, T., 2022. Multilabel classification of heterogeneous underwater soundscapes with Bayesian deep learning. IEEE Journal of Oceanic Engineering, 47(4), pp.1143-1154.
 
 Fischer, J., Orescanin, M., Leary, P. and Smith, K.B., 2023. Active Bayesian deep learning with vector sensor for passive sonar sensing of the ocean. IEEE Journal of Oceanic Engineering, 48(3), pp.837-852.
+
+Beckler, B., Pfau, A., Orescanin, M., Atchley, S., Villemez, N., Joseph, J.E., Miller, C.W. and Margolina, T., 2022. Multilabel classification of heterogeneous underwater soundscapes with Bayesian deep learning. IEEE Journal of Oceanic Engineering, 47(4), pp.1143-1154.
+
+
 
 ## Project Goal
 Project to generate ship-acoustic machine-learning training, validation and test datasets based on an AIS-track repository of vessel traffic in the Monterey Bay. Evaluation results in the test dataset should
